@@ -1,4 +1,8 @@
-# vis-timeline
+# vis-timeline (Fork)
+
+
+> [!IMPORTANT]
+> This is a fork of the library vis-timeline with minor fixes and improvements. The original library can be found [here](https://github.com/visjs/vis-timeline).
 
 ![example chart](docs/img/timeline.png)
 
