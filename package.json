@@ -1,15 +1,15 @@
 {
-  "name": "@smartsquaregmbh/vis-timeline",
+  "name": "@benjaminforras/vis-timeline",
   "version": "0.0.0-no-version",
   "description": "Create a fully customizable, interactive timeline with items and ranges.",
   "homepage": "https://visjs.github.io/vis-timeline/",
   "license": "(Apache-2.0 OR MIT)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SmartsquareGmbH/vis-timeline.git"
+    "url": "https://github.com/benjaminforras/vis-timeline.git"
   },
   "bugs": {
-    "url": "https://github.com/SmartsquareGmbH/vis-timeline/issues"
+    "url": "https://github.com/benjaminforras/vis-timeline/issues"
   },
   "keywords": [
     "vis",
