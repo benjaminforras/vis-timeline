@@ -40,6 +40,7 @@
     "test-cov": "nyc --reporter=lcov mocha --exit --require vis-dev-utils/babel-register",
     "build": "cpy \"types/**/*\" \"declarations\" && rollup --bundleConfigAsCjs --config rollup.build.js && rollup --bundleConfigAsCjs --config rollup.config.js",
     "watch": "rollup --bundleConfigAsCjs --watch --config rollup.config.js",
+    "watch-build": "rollup --bundleConfigAsCjs --watch --config rollup.build.js",
     "generate-examples-index": "npm run generate-examples-index:timeline && npm run generate-examples-index:graph2d",
     "generate-examples-index:timeline": "generate-examples-index --config generate-examples-index-timeline.json",
     "generate-examples-index:graph2d": "generate-examples-index --config generate-examples-index-graph2d.json",
