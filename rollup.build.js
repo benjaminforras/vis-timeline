@@ -1,5 +1,5 @@
-import packageJSON from "./package.json";
 import { generateRollupConfiguration } from "vis-dev-utils";
+import packageJSON from "./package.json";
 
 export default generateRollupConfiguration({
   externalForPeerBuild: ["moment", "vis-data"],
@@ -13,6 +13,7 @@ export default generateRollupConfiguration({
     moment: "moment",
     uuid: "uuid",
     xss: "filterXSS",
+    fastdom: "fastdom",
   },
   header: { name: "vis-timeline and vis-graph2d" },
   libraryFilename: "vis-timeline-graph2d",

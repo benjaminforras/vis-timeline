@@ -302,5 +302,8 @@
     "Shao Wang <wsdonny@gmail.com>",
     "TATSUNO Yasuhiro <ytatsuno.jp@gmail.com>",
     "Tanya <zamorskatetiana@gmail.com>"
-  ]
+  ],
+  "dependencies": {
+    "fastdom": "^1.0.12"
+  }
 }
